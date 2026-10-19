@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=250&section=header&text=Ezequiel%20López%20Cruz&fontSize=60&fontColor=ffffff&fontAlignY=40" />
 
-# ¡Hola! Soy Ezequiel López Cruz 👋
+# ¡Hola! Soy Ezequiel López Cruz 
 
 ### Java Developer | Backend Developer
 
@@ -10,30 +10,29 @@ Tengo experiencia desarrollando y consumiendo APIs REST, trabajando con bases de
 
 Me interesa seguir fortaleciendo mis habilidades en arquitectura de software, desarrollo backend y buenas prácticas de programación, creando soluciones mantenibles y eficientes.
 
-📧 **Contacto:** [Email](mailto:ezequiellopezcruz3@gmail.com)
+**Contacto:** [Email](mailto:ezequiellopezcruz3@gmail.com)
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,angular,html,css,git,github,docker,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,js,ts,jquery,html,maven,git,github,docker,postman,notion&theme=light)](https://skillicons.dev)
 
-**Backend:** Java · Spring Boot · Spring Data JPA · Hibernate · Spring Security · Spring Cloud · Microservicios · REST APIs
+**Backend:** Java · Spring Boot · Spring Data JPA · Hibernate · Spring Security · Spring Cloud · Microservicios · APIs REST
 
-**Bases de datos:** Oracle Database · SQL Server · MySQL · SQL · Procedimientos almacenados
+**Bases de datos:** Oracle Database · SQL Server · MySQL · SQL 
 
-**Frontend:** Angular · JavaScript · HTML5 · CSS3
+**Frontend:** Angular · TypeScript · JavaScript · jQuery · HTML5 · CSS3
 
 **Herramientas:** Maven · Git · GitHub · Git Bash · Docker · Postman · Notion · Eclipse · Visual Studio Code
 
-**Tecnologías adicionales:** C# · ASP.NET · PHP · Laravel · Livewire
+**Tecnologías adicionales:** C# · ASP.NET · PHP · Laravel · Livewire · Tailwind · Viu
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **Sistema de Recursos Humanos** | Desarrollo de un módulo para centralizar la gestión de 5 proyectos dependientes, con mejoras que redujeron aproximadamente un 40 % el tiempo de sincronización de información. | Java · Spring Boot · Oracle · REST APIs |
+| **Sistema de Recursos Humanos** | Aplicación empresarial para un módulo de Recursos Humanos para centralizar la gestión de 5 proyectos dependientes, con mejoras que redujeron aproximadamente un 40 % el tiempo de sincronización de información. | Java · Spring Boot · Oracle · APIs REST · Angular|
 | **Plataforma de Gestión de Viáticos** | Aplicación empresarial para administrar empleados, viajes, gastos, transportes y hospedaje. Incluye un módulo de reportes que redujo el tiempo de generación de comprobantes de 7 minutos a aproximadamente 1 minuto. | Java · Spring Boot · Spring Data · Oracle · Angular |
-| **API REST de Préstamos** | Servicio backend para gestionar clientes y préstamos, aplicando operaciones CRUD e integración con base de datos. | Java · REST · Oracle · Maven |
-| **Sistema de Gestión de Usuarios** | Aplicación web para administrar usuarios y registros, con servicios backend e interfaz web. | Java · Spring Boot · Angular · Oracle |
+| **API REST de Préstamos** | Servicio backend para gestionar clientes y préstamos, aplicando operaciones CRUD e integración con base de datos. | Java · Spring Boot · API REST · Oracle · Angular |
 
 ## Actualmente enfocado en
 
