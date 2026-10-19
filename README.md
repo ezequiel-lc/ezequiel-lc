@@ -18,11 +18,10 @@ Tambien: Laravel · MySQL · Oracle DB · Tailwind
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Stack | Código |
-|---|---|---|---|
-| **Sistema de Viáticos** | Gestión de trabajadores, viajes y gastos. | PHP · Laravel · MySQL | [GitHub](LINK) |
-| **Portal de Recursos Humanos** | Administración de empleados, roles y permisos. | Laravel · Livewire · MySQL | [GitHub](LINK) |
-| **API de Préstamos** | API REST para clientes y préstamos. | Java · JAX-RS · Oracle · Maven | [GitHub](LINK) |
-| **Sistema de Gestión de Autos** | Gestión de autos y marcas mediante API REST. | Java · REST · Oracle · JavaScript | [GitHub](LINK) |
+| Proyecto | Descripción | Stack 
+|---|---|---|
+| **Sistema de Viáticos** | Gestión de trabajadores, viajes y gastos. | PHP · Laravel · MySQL | 
+| **Portal de Recursos Humanos** | Administración de empleados, roles y permisos. | Laravel · Livewire · MySQL | 
+| **API de Préstamos** | API REST para clientes y préstamos. | Java · JAX-RS · Oracle · Maven | 
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=ezequiel-lc&theme=ocean)
