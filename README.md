@@ -24,7 +24,7 @@ Me interesa seguir fortaleciendo mis habilidades en arquitectura de software, de
 
 **Herramientas:** Maven · Git · GitHub · Git Bash · Docker · Postman · Notion · Eclipse · Visual Studio Code
 
-**Tecnologías adicionales:** C# · ASP.NET · PHP · Laravel · Livewire · Tailwind · Viu
+**Tecnologías adicionales:** C# · ASP.NET · PHP · Laravel · Livewire · Tailwind · Vue
 
 ## Proyectos destacados
 
